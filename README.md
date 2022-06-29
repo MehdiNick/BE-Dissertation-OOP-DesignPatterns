@@ -1,5 +1,5 @@
 # Design-Patterns-
-in this series, 19 design patterns have been examplified and implemented. Codes and UML diagrams are from my Bachelour dissertation. 
+in this series, 19 design patterns have been examplified and implemented in Python. Codes and UML diagrams are from my Bachelour dissertation. 
 
 The design patterns examined: 
 1.Factory Method
