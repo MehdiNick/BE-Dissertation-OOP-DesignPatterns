@@ -1,24 +1,26 @@
 # Design-Patterns-
-in this series, 19 design patterns have been examplified and implemented in Python. Codes and UML diagrams are from my Bachelour dissertation. 
+in this series, 19 design patterns have been examplified and implemented in Python.
+
+**Codes and UML diagrams are from my Bachelour dissertation.**
 
 The design patterns examined: 
-1.Factory Method
-2.Abstract Factory
-3.Singleton
-4.Builder
-5.Adapter
-6.Bridge
-7.Composite
-8.Decorator
-9.Facade
-10.Proxy
-11.Flyweight
-12.Chain Of Responsibility
-13.Command
-14.Observer
-15.Iterator
-16.State
-17.Strategy
-18.Template Method
-19.Prototype
+1.Factory Method <br />
+2.Abstract Factory<br />
+3.Singleton<br />
+4.Builder<br />
+5.Adapter<br />
+6.Bridge<br />
+7.Composite<br />
+8.Decorator<br />
+9.Facade<br />
+10.Proxy<br />
+11.Flyweight<br />
+12.Chain Of Responsibility<br />
+13.Command<br />
+14.Observer<br />
+15.Iterator<br />
+16.State<br />
+17.Strategy<br />
+18.Template Method<br />
+19.Prototype<br />
 
