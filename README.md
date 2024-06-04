@@ -5,7 +5,7 @@ in this series, 19 design patterns have been examplified and implemented in Pyth
 
 **Codes and UML diagrams are from my Bachelour dissertation.**
 
-The design patterns examined: 
+The design patterns examined: <br />
 1.Factory Method <br />
 2.Abstract Factory<br />
 3.Singleton<br />
