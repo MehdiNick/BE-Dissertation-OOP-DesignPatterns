@@ -1,5 +1,7 @@
-# Design-Patterns-
+# Design-Patterns
 in this series, 19 design patterns have been examplified and implemented in Python.
+
+**the Dissertation pdf file is also provided** 
 
 **Codes and UML diagrams are from my Bachelour dissertation.**
 
